@@ -1,8 +1,11 @@
+![Fandy Ahmad](img/github-header-image.png)
+
 # Hi there 👋, I'm **Qrozyer**
 
 Full‑Stack Developer (Backend, Frontend, Android)
 
 ---
+
 
 ## 🚀 About Me
 
@@ -130,6 +133,13 @@ Feel free to ⭐ my repos, clone projects, or start collaborations.
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qrozyer/Qrozyer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qrozyer/Qrozyer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Qrozyer/Qrozyer/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 <br clear="both">
