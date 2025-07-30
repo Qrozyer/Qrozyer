@@ -14,7 +14,7 @@ Full‑Stack Developer (Backend, Frontend, Android)
 
 ## 🛠️ Tech & Design Stack
 
-**Backend:** PHP · Laravel · Node.js · Express · REST APIs  
+**Backend:** PHP · Laravel · Node.js · Express · Elixir · Phoenix · REST APIs  
 **Frontend:** HTML · CSS · JavaScript · React.js · Responsive UI  
 **Mobile / Android:** React Native · Android Studio  
 **Design Tools:** Figma · Photopea · Canva  
