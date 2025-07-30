@@ -65,3 +65,16 @@ Feel free to ⭐ my repos, clone projects, or start collaborations.
 | Style                | Clean · Responsive · Visual‑first                            |
 | Passion              | Building tech‑driven, design‑informed, impactful projects   |
 
+## Enjoy
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaz/maurodesouzaz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaz/maurodesouzaz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaz/maurodesouzaz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouzaz/maurodesouzaz/output/snake.svg" alt="Snake animation" />
+
+###
